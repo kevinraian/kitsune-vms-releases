@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #2c313d;
+        stroke-width: 4px;
+      }
+
+      .st1 {
+        fill: #171a23;
+      }
+
+      .st2, .st3 {
+        fill: #f5832a;
+      }
+
+      .st4 {
+        fill: #fff;
+        fill-opacity: .85;
+      }
+
+      .st5 {
+        fill: #0f1117;
+      }
+
+      .st6 {
+        fill: #e8e4dc;
+      }
+
+      .st3 {
+        stroke: #f5832a;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <rect class="st1" x="8" y="8" width="240" height="240" rx="30.16" ry="30.16"/>
+  <g>
+    <path class="st3" d="M76.48,30l-11.07,86,47.99-44-36.91-42Z"/>
+    <path class="st3" d="M179.83,30l11.07,86-47.99-44,36.91-42Z"/>
+  </g>
+  <path class="st6" d="M80.48,49.88l-4.48,50.12,26.9-25.06-22.41-25.06Z"/>
+  <path class="st6" d="M175.52,48.23l4.48,51.77-26.9-25.89,22.41-25.89Z"/>
+  <circle class="st2" cx="128" cy="140" r="70"/>
+  <path class="st6" d="M58,146c22.67,17.33,46,27.33,70,30,24-2.67,47.33-12.67,70-30-2.67,33.33-26,62-70,86-44-24-67.33-52.67-70-86Z"/>
+  <circle class="st5" cx="128" cy="140" r="52"/>
+  <circle class="st0" cx="128" cy="140" r="36"/>
+  <circle class="st2" cx="128" cy="140" r="15"/>
+  <circle class="st4" cx="108" cy="120" r="7"/>
+</svg>
