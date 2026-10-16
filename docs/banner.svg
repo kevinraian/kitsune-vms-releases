@@ -13,11 +13,11 @@
   <rect width="1280" height="360" rx="20" fill="url(#glow)"/>
   <rect x="1" y="1" width="1278" height="358" rx="19" fill="none" stroke="#2c313d" stroke-width="2"/>
   <g stroke="#2c313d" stroke-width="1.5" fill="none" opacity="0.7">
-    <rect x="800" y="60" width="200" height="112" rx="8"/><rect x="1020" y="60" width="200" height="112" rx="8"/>
-    <rect x="800" y="190" width="200" height="112" rx="8"/><rect x="1020" y="190" width="200" height="112" rx="8" stroke="#f5832a" stroke-width="2.5"/>
+    <rect x="1020" y="92" width="100" height="56" rx="7"/><rect x="1136" y="92" width="100" height="56" rx="7"/>
+    <rect x="1020" y="164" width="100" height="56" rx="7"/><rect x="1136" y="164" width="100" height="56" rx="7" stroke="#f5832a" stroke-width="2.5"/>
   </g>
-  <circle cx="816" cy="76" r="4" fill="#3dd68c"/><circle cx="1036" cy="76" r="4" fill="#3dd68c"/>
-  <circle cx="816" cy="206" r="4" fill="#f2c94c"/><circle cx="1036" cy="206" r="4" fill="#3dd68c"/>
+  <circle cx="1034" cy="106" r="3.5" fill="#3dd68c"/><circle cx="1150" cy="106" r="3.5" fill="#3dd68c"/>
+  <circle cx="1034" cy="178" r="3.5" fill="#f2c94c"/><circle cx="1150" cy="178" r="3.5" fill="#3dd68c"/>
   <svg x="80" y="82" width="196" height="196" viewBox="0 0 256 256">
   
   <defs>
@@ -71,6 +71,6 @@
   <circle class="st4" cx="108" cy="120" r="7"/>
 </svg>
   <text x="316" y="176" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#e8e4dc">Kitsune <tspan fill="#f5832a">VMS</tspan></text>
-  <text x="320" y="222" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#9aa0ac">Central de monitoramento de câmeras para Windows</text>
-  <text x="320" y="262" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#6b7280">RTSP · ONVIF · Webcams · PTZ · Movimento · IA local</text>
+  <text x="320" y="222" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="24" fill="#9aa0ac">Central de monitoramento de câmeras para Windows</text>
+  <text x="320" y="262" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="19" fill="#6b7280">RTSP · ONVIF · Webcams · PTZ · Movimento · IA local</text>
 </svg>
