@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="Kitsune VMS — central de monitoramento de câmeras para Windows" width="100%">
+  <img src="docs/banner-v2.svg" alt="Kitsune VMS — central de monitoramento de câmeras para Windows" width="100%">
 </p>
 
 <p align="center">
