@@ -59,6 +59,7 @@ Tudo roda no seu computador: câmeras, senhas, configurações e o modelo de IA 
 - **Posições predefinidas** (presets) e favoritos de acesso rápido.
 - **Zoom digital** quando a câmera não tem zoom óptico, ou **forçar o zoom ONVIF** quando ela o anuncia.
 - Inversão de eixos para câmeras com sentido espelhado.
+- **Perfis por fabricante:** *Intelbras* (giro e inclinação pela API nativa da câmera) e *Xiongmai/ICSee* (porta ONVIF 8899, zoom digital e eixo horizontal invertido já ajustados).
 - Comandos com **tempo limite**: se a rede falhar no meio de um movimento, a câmera para sozinha.
 
 ## 🚨 Movimento e IA
